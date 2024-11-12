@@ -107,8 +107,8 @@ section h2::after {
 }
 
 .imagens-pets img {
-    width: 120px;
-    height: 120px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     border: 3px solid #9370db;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
